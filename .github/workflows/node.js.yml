@@ -40,5 +40,5 @@ test:
         npm install
         npm test
       env:
-       CI: true
+        CI: true
 
